@@ -1,10 +1,15 @@
 body{
-    background-color: black;
-    color: wheat;
+    background-color: white;
+}
+header{
+    display: flex;
+    justify-content: center;
 }
 h1{
+    color: rgb(251, 198, 100);
     font-size: large;
 }
 h2{
-    color: red;
+    margin-right: 10vw;
+    color: orange;
 }
