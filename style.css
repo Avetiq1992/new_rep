@@ -2,14 +2,17 @@ body{
     background-color: white;
 }
 header{
+    background-color: orangered;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 h1{
     color: rgb(251, 198, 100);
     font-size: large;
+
 }
 h2{
-    margin-right: 10vw;
+    margin: 2vh 10vw;
     color: orange;
 }
