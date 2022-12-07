@@ -2,7 +2,7 @@ function hello(){
 <<<<<<< HEAD
     alert("Hello world")
 =======
-    alert("Hello world in")
+    alert("Hello world ")
 >>>>>>> dfe15b1 ( wor)
 }
 hello();
